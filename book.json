@@ -1,9 +1,6 @@
 {
-    "title": "Kubernetes 排错指南",
-    "description": "Kubernetes 排错指南",
     "author": "roc",
     "gitbook": ">= 3.2.2",
-    "language": "zh-hans",
     "links": {
         "sidebar": {
             "roc": "https://imroc.io"
@@ -27,7 +24,8 @@
         "favicon@^0.0.2",
         "3-ba",
         "disqus",
-        "theme-default"
+        "theme-default",
+        "language-picker"
     ],
     "pdf": {
         "toc": true,
