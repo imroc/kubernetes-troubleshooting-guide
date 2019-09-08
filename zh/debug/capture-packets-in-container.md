@@ -45,7 +45,7 @@ tcp contains "lbtest"
 http.request.uri=="/mytest"
 ```
 
-### 脚本原理
+## 脚本原理
 
 我们解释下步骤二中用到的脚本的原理
 - 查看指定 pod 运行的容器 ID
