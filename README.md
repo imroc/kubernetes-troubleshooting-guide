@@ -1,12 +1,18 @@
 # Initial page
 
-si
+{% tabs %}
+{% tab title="tab1" %}
+do:
 
-first
+```text
+shit
+```
+{% endtab %}
 
-![](.gitbook/assets/favicon.png)
-
-
-
-hi
+{% tab title="tab2" %}
+```text
+fuck
+```
+{% endtab %}
+{% endtabs %}
 
